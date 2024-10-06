@@ -1,6 +1,5 @@
-import javax.swing.JOptionPane;
 import java.util.Scanner;
-public class Main {
+public class ejercicio1 {
     public static void main(String[] args) {
         String Horoscopo;
         Scanner sc = new Scanner(System.in);
